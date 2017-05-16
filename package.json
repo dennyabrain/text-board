@@ -1,0 +1,26 @@
+{
+  "name": "nested-text-board",
+  "version": "0.0.1",
+  "description": "a nested text board to foster great discussions online",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dennyabrain/text-board.git"
+  },
+  "keywords": [
+    "community",
+    "discussion"
+  ],
+  "author": "dennyabrain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennyabrain/text-board/issues"
+  },
+  "homepage": "https://github.com/dennyabrain/text-board#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
